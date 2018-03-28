@@ -17,7 +17,7 @@ isort==4.3.4
 mysql-python==1.2.5
 newrelic==3.0.0.89
 path.py==11.0.1
-python-memcached==1.48
+python-memcached==1.59
 python-termstyle==0.1.10
 pytz==2018.3
 pyyaml==3.12              # via edx-django-release-util
